@@ -12,4 +12,5 @@ def main():
     util.protontricks('vcrun2019_ge')
     util.protontricks('allfonts')
     util.protontricks('dotnet462')
+    util.protontricks('dotnet471')
     util.use_seccomp()
